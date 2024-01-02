@@ -1,0 +1,151 @@
+.bg-img {
+   /* Define a class for the div with background image */
+  
+    /* Set background image */
+    background-image: url('https://scontent.fisb12-1.fna.fbcdn.net/v/t39.30808-6/311817663_574052007855565_6860854874139484969_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=QrjGLAIyNmkAX93FlTc&_nc_ht=scontent.fisb12-1.fna&oh=00_AfDnBU4D06khJzObJN73WP6RdVZXlMBOT6Nb4w22W0Rt3A&oe=6590B666');
+    /* Set background size */
+    background-size: cover;
+    /* Set background repeat property if needed */
+    background-repeat: no-repeat;
+    /* Set background position */
+    background-position: center;
+    /* Set background attachment property */
+    background-attachment: fixed; /* or scroll for a scrolling background */
+    /* Set a height for the div (adjust as needed) */
+    height: 300px;
+    /* Add any other styles you need for the div */
+    color: #494287; /* Example text color */
+    text-align: center; /* Example text alignment */
+    container: ;
+}
+.body-color{
+    background-color: #EEF5FF;
+   
+
+}
+
+.body-size{
+    margin: 0%;
+    padding: 0%;
+}
+
+.navbar{
+
+
+
+    background-color: #144272;
+   
+}
+
+.navbar-text,
+.navbar-brand,
+.nav-link,
+.nav-link.active
+{
+    color: white;
+}
+
+.sec-div{
+    background-color: red;
+    text-align: center;
+  
+    color: #EEF5FF;
+
+}
+.fontsize{
+    font-size: 20px;
+}
+
+.thir-div{
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+ 
+    color: #04142b;
+
+}
+
+.fontsize2{
+    font-size:30px;
+}
+
+
+
+
+.displayflex{
+
+    display: flex;
+}
+
+.class1{
+    margin-left: 220px;
+}
+
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+  }
+
+  .flex-item {
+    /* Adjust the width of each column as needed */
+    width: 50px;
+    height: 50px;
+    
+    margin: 50px; /* Add spacing between columns */
+    box-sizing: border-box; /* Include padding and border in the width */
+    text-align: center;
+    line-height: 50px; /* Vertically center content */
+    transition: transform 0.2s ease; /* For making slide trasnition */
+  }
+
+
+  
+
+
+  .btnnn-primary{
+    background-color: red ;
+    color: #EEF5FF;
+  }
+
+  
+  .seccc {
+    background-image: url('https://d39tfzr0b34y81.cloudfront.net/media/uni_profile_img/banner1.jpg'); /* Replace with the path or URL to your image */
+    background-size: cover; /* Cover the entire viewport */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    height: 100vh;
+    margin: 0;
+    text-align: center;
+    color: white; /* Example text color */
+}
+
+.seccc2 {
+    background-image: url('https://i.pinimg.com/736x/bc/8b/37/bc8b37133eef5aeedc0136f4812efbfa--night-city-architecture-photo.jpg'); /* Replace with the path or URL to your image */
+    background-size: cover; /* Cover the entire viewport */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    height: 100vh;
+    margin: 0;
+    text-align: center;
+    color: white; /* Example text color */
+}
+
+.white-text {
+    color: white;
+}
+
+.copyright-section {
+    background-color: #000; /* Black background color */
+    color: white; /* White text color */
+    text-align: center;
+    padding: 15px;
+}
+
+
+
+.bg-coloor{
+background-color: bisque;
+
+}
+
+
